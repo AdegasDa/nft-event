@@ -1,0 +1,16 @@
+{
+    "name": "Super Bowl LX",
+    "description": "Access pass for Super Bowl 2026 at Hard Rock Stadium.",
+    "token_id": 16,
+    "image": "ipfs://QmExampleImgHash16",
+    "external_url": "https://yourplatform.com/event/super-bowl-2026",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Super Bowl 2026" },
+      { "trait_type": "Date", "value": "2026-06-18" },
+      { "trait_type": "Venue", "value": "Hard Rock Stadium" },
+      { "trait_type": "Organizer", "value": "NFL" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash16" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+  }

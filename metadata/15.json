@@ -1,0 +1,16 @@
+{
+    "name": "Wimbledon Centre Court",
+    "description": "Access pass for Wimbledon 2025 at All England Club.",
+    "token_id": 15,
+    "image": "ipfs://QmExampleImgHash15",
+    "external_url": "https://yourplatform.com/event/wimbledon-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Wimbledon 2025" },
+      { "trait_type": "Date", "value": "2026-02-17" },
+      { "trait_type": "Venue", "value": "All England Club" },
+      { "trait_type": "Organizer", "value": "AELTC" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash15" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+  }

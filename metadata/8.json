@@ -1,0 +1,16 @@
+{
+    "name": "Formula 1 Monaco GP",
+    "description": "Access pass for Monaco Grand Prix at Circuit de Monaco.",
+    "token_id": 8,
+    "image": "ipfs://QmXZ6Df3uVY7DKQjD8sYNFXwxE8JLW7dv2eTNF7iYdBLBd",
+    "external_url": "https://yourplatform.com/event/monaco-grand-prix",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Monaco Grand Prix" },
+      { "trait_type": "Date", "value": "2026-01-28" },
+      { "trait_type": "Venue", "value": "Circuit de Monaco" },
+      { "trait_type": "Organizer", "value": "Formula 1" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash8" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+  }

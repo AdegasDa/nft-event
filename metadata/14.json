@@ -1,0 +1,16 @@
+{
+    "name": "US Open Final",
+    "description": "Access pass for US Open Tennis Final at Arthur Ashe Stadium.",
+    "token_id": 14,
+    "image": "ipfs://QmExampleImgHash14",
+    "external_url": "https://yourplatform.com/event/us-open-tennis-final",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "US Open Tennis Final" },
+      { "trait_type": "Date", "value": "2026-01-30" },
+      { "trait_type": "Venue", "value": "Arthur Ashe Stadium" },
+      { "trait_type": "Organizer", "value": "USTA" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash14" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

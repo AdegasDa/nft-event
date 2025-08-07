@@ -1,0 +1,16 @@
+{
+    "name": "Met Gala Entry",
+    "description": "Access pass for Met Gala 2025 at Metropolitan Museum of Art.",
+    "token_id": 13,
+    "image": "ipfs://QmExampleImgHash13",
+    "external_url": "https://yourplatform.com/event/met-gala-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Met Gala 2025" },
+      { "trait_type": "Date", "value": "2026-03-10" },
+      { "trait_type": "Venue", "value": "Metropolitan Museum of Art" },
+      { "trait_type": "Organizer", "value": "Vogue" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash13" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Burning Man Pass",
+    "description": "Access pass for Burning Man 2025 at Black Rock City.",
+    "token_id": 7,
+    "image": "ipfs://QmWamEpv9ZurjzzDcWuAUWw9tnF6GtRah8FTJUmEG23tY2",
+    "external_url": "https://yourplatform.com/event/burning-man-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Burning Man 2025" },
+      { "trait_type": "Date", "value": "2026-06-20" },
+      { "trait_type": "Venue", "value": "Black Rock City" },
+      { "trait_type": "Organizer", "value": "Burning Man Project" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash7" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

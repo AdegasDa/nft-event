@@ -1,0 +1,18 @@
+{
+  "name": "Jazz Night VIP",
+  "description": "VIP Pass for Jazz Night at Blue Note Club on September 10, 2025.",
+  "token_id": 2,
+  "image": "ipfs://QmaLo4H9MR6b7foG2HvU7A3eRYFU1g6qB4DLvoVAPMi7hw",
+  "external_url": "https://yourplatform.com/event/jazz-night",
+  "attributes": [
+    { "trait_type": "Event Name", "value": "Jazz Night" },
+    { "trait_type": "Date", "value": "2025-09-10" },
+    { "trait_type": "Venue", "value": "Blue Note Club" },
+    { "trait_type": "Seat", "value": "VIP Lounge Seat 3" },
+    { "trait_type": "Ticket Type", "value": "VIP" },
+    { "trait_type": "Organizer", "value": "Blue Note Events" },
+    { "trait_type": "QR Code URL", "value": "ipfs://QmQrCodeHash2" },
+    { "trait_type": "Transferable", "value": "true" },
+    { "trait_type": "Redeemed", "value": "false" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Coachella Weekend 1",
+    "description": "Access pass for Coachella Music Festival at Empire Polo Club.",
+    "token_id": 5,
+    "image": "ipfs://QmXHLdPJvVPAji4jNLmmQwJkZLwwMMNg6JixyDSaaN9xFA",
+    "external_url": "https://yourplatform.com/event/coachella-music-festival",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Coachella Music Festival" },
+      { "trait_type": "Date", "value": "2026-04-04" },
+      { "trait_type": "Venue", "value": "Empire Polo Club" },
+      { "trait_type": "Organizer", "value": "Goldenvoice" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash5" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+  }

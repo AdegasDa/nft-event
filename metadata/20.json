@@ -1,0 +1,16 @@
+{
+    "name": "BlizzCon All Access",
+    "description": "Access pass for BlizzCon 2025 at Anaheim Convention Center.",
+    "token_id": 20,
+    "image": "ipfs://QmExampleImgHash20",
+    "external_url": "https://yourplatform.com/event/blizzcon-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "BlizzCon 2025" },
+      { "trait_type": "Date", "value": "2026-03-22" },
+      { "trait_type": "Venue", "value": "Anaheim Convention Center" },
+      { "trait_type": "Organizer", "value": "Blizzard Entertainment" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash20" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

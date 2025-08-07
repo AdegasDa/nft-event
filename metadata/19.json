@@ -1,0 +1,16 @@
+{
+    "name": "Paris Fashion Week VIP",
+    "description": "Access pass for Paris Fashion Week 2025 at Carrousel du Louvre.",
+    "token_id": 19,
+    "image": "ipfs://QmExampleImgHash19",
+    "external_url": "https://yourplatform.com/event/paris-fashion-week-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Paris Fashion Week 2025" },
+      { "trait_type": "Date", "value": "2026-05-04" },
+      { "trait_type": "Venue", "value": "Carrousel du Louvre" },
+      { "trait_type": "Organizer", "value": "FHCM" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash19" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

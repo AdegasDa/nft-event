@@ -1,0 +1,16 @@
+{
+    "name": "E3 Expo Pass",
+    "description": "Access pass for E3 Gaming Expo 2025 at LA Convention Center.",
+    "token_id": 10,
+    "image": "ipfs://QmfJyWdmjXbKMTLHPSSbC353EzYibL9cPchmCQf4c4JeWb",
+    "external_url": "https://yourplatform.com/event/e3-gaming-expo-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "E3 Gaming Expo 2025" },
+      { "trait_type": "Date", "value": "2026-03-17" },
+      { "trait_type": "Venue", "value": "LA Convention Center" },
+      { "trait_type": "Organizer", "value": "ESA" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash10" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

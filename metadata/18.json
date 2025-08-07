@@ -1,0 +1,16 @@
+{
+    "name": "SXSW Music Badge",
+    "description": "Access pass for SXSW Festival 2026 in Austin, TX.",
+    "token_id": 18,
+    "image": "ipfs://QmExampleImgHash18",
+    "external_url": "https://yourplatform.com/event/sxsw-festival-2026",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "SXSW Festival 2026" },
+      { "trait_type": "Date", "value": "2026-04-01" },
+      { "trait_type": "Venue", "value": "Austin, TX" },
+      { "trait_type": "Organizer", "value": "SXSW LLC" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash18" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

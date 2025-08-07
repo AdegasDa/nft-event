@@ -1,0 +1,16 @@
+{
+    "name": "World Cup Final",
+    "description": "Access pass for FIFA World Cup 2026 Final at Lusail Stadium.",
+    "token_id": 6,
+    "image": "ipfs://QmQBHi5tztcaCXvjP44uAs1iNVVWwsyPjDVJ2Wtq2wVEqC",
+    "external_url": "https://yourplatform.com/event/fifa-world-cup-2026-final",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "FIFA World Cup 2026 Final" },
+      { "trait_type": "Date", "value": "2026-02-26" },
+      { "trait_type": "Venue", "value": "Lusail Stadium" },
+      { "trait_type": "Organizer", "value": "FIFA" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash6" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+  }

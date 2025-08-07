@@ -1,0 +1,16 @@
+{
+    "name": "Oscars Red Carpet",
+    "description": "Access pass for Academy Awards 2025 at Dolby Theatre.",
+    "token_id": 11,
+    "image": "ipfs://QmExampleImgHash11",
+    "external_url": "https://yourplatform.com/event/academy-awards-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Academy Awards 2025" },
+      { "trait_type": "Date", "value": "2026-05-13" },
+      { "trait_type": "Venue", "value": "Dolby Theatre" },
+      { "trait_type": "Organizer", "value": "AMPAS" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash11" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Tomorrowland GA",
+    "description": "Access pass for Tomorrowland 2025 at Boom, Belgium.",
+    "token_id": 12,
+    "image": "ipfs://QmExampleImgHash12",
+    "external_url": "https://yourplatform.com/event/tomorrowland-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "Tomorrowland 2025" },
+      { "trait_type": "Date", "value": "2026-04-28" },
+      { "trait_type": "Venue", "value": "Boom, Belgium" },
+      { "trait_type": "Organizer", "value": "Tomorrowland Org" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash12" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+}

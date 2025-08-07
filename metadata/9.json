@@ -1,0 +1,16 @@
+{
+    "name": "NBA Finals Game 7",
+    "description": "Access pass for NBA Finals 2025 at Chase Center.",
+    "token_id": 9,
+    "image": "ipfs://QmSqUG4RsqCFE1h9oeR5WAqdEscjm1Qxp6Z1ug6wHHJJCx",
+    "external_url": "https://yourplatform.com/event/nba-finals-2025",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "NBA Finals 2025" },
+      { "trait_type": "Date", "value": "2026-06-03" },
+      { "trait_type": "Venue", "value": "Chase Center" },
+      { "trait_type": "Organizer", "value": "NBA" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash9" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+  }

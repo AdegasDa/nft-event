@@ -1,0 +1,16 @@
+{
+    "name": "CES Keynote",
+    "description": "Access pass for CES 2026 at Las Vegas Convention Center.",
+    "token_id": 17,
+    "image": "ipfs://QmExampleImgHash17",
+    "external_url": "https://yourplatform.com/event/ces-2026",
+    "attributes": [
+      { "trait_type": "Event Name", "value": "CES 2026" },
+      { "trait_type": "Date", "value": "2026-06-06" },
+      { "trait_type": "Venue", "value": "Las Vegas Convention Center" },
+      { "trait_type": "Organizer", "value": "CTA" },
+      { "trait_type": "QR Code URL", "value": "ipfs://QmExampleQRHash17" },
+      { "trait_type": "Transferable", "value": "false" },
+      { "trait_type": "Redeemed", "value": "false" }
+    ]
+  }

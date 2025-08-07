@@ -1,0 +1,16 @@
+{
+  "name": "TEDx Front Row",
+  "description": "Front Row seat for TEDx Conference at MIT on October 5, 2025.",
+  "token_id": 3,
+  "image": "ipfs://Qmc82vwnophktgF3zgDEpnJEoXrmE45e3uaZH5L72R3SgC",
+  "external_url": "https://yourplatform.com/event/tedx-mit",
+  "attributes": [
+    { "trait_type": "Event Name", "value": "TEDx MIT" },
+    { "trait_type": "Date", "value": "2025-10-05" },
+    { "trait_type": "Venue", "value": "MIT Media Lab" },
+    { "trait_type": "Organizer", "value": "TEDx MIT" },
+    { "trait_type": "QR Code URL", "value": "ipfs://QmQrCodeHash3" },
+    { "trait_type": "Transferable", "value": "false" },
+    { "trait_type": "Redeemed", "value": "false" }
+  ]
+}
