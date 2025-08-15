@@ -11,7 +11,7 @@ import NFTCard from "@/components/NFTCard";
 export default function page() {
   const account = useActiveAccount();
   const chain = defineChain(ethereum);
-  const contract = getContract({ client, chain, address: "0x595d574F26f4EFec809359c09b44e5C1a203438E" });
+  const contract = getContract({ client, chain, address: process.env.USER_ADRESS ?? "" });
 
   const [ownedNFTs, setOwnedNFTs] = useState<any[]>([]);
   const [totalSupply, setTotalSupply] = useState<number>(0);
@@ -57,12 +57,25 @@ export default function page() {
 
                   const normalizedUri = normalizeIpfs(uri);
                   const res = await fetch(normalizedUri);
-                  const metadata = await res.json();
+const metadata = await res.json();
 
-                  return {
-                    tokenId: i,
-                    ...metadata,
-                  };
+const imageField = metadata.image || metadata.image_url || metadata.imageUri;
+
+if (imageField) {
+  metadata.image = imageField;
+}
+
+if (Array.isArray(metadata.attributes)) {
+  const qr = metadata.attributes.find(
+    (a: any) => (a.trait_type || a.traitType) === "QR Code URL"
+  );
+  if (qr && typeof qr.value === "string") {
+    qr.value = qr.value;
+  }
+}
+
+return { tokenId: i, ...metadata };
+
                 }
 
                 return null;
@@ -93,7 +106,7 @@ export default function page() {
             </ span>
         )}
       </h1>
-
+ 
         <div className="bg-zinc-800 rounded-lg p-6 mb-10 text-center w-full shadow-md">
             <h2 className="text-2xl font-semibold text-white mb-2">
                 Show this page at the event entrance
